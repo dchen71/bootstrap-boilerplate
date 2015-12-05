@@ -8,7 +8,8 @@
 /* Footer */
 
 .footer{
-	background-color: #DEDEDE;
+	background-color: black;
+	color: white;
 }
 
 .footer .container{
@@ -20,4 +21,12 @@
 #index-jumbo{
 	height: 25em;
 	background-image: url("") no-repeat cover center center;
+}
+
+#index-jumbo .container div h2, #index-jumbo .container div p, #index-jumbo .container div a{
+	margin-bottom: 0;
+}
+
+#index-jumbo .container div{
+	margin-top: 3em;
 }

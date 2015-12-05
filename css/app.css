@@ -52,3 +52,17 @@
 #index-jumbo .container div{
 	margin-top: 3em;
 }
+
+/* Nav bars */
+.nav-tabs{
+	border-bottom: none;
+}
+
+.tab-content{
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.tab-content{
+	border: 1px #DAD7D7 solid;
+}

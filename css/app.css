@@ -1,0 +1,19 @@
+/* Navbar */
+.navbar{
+	margin-bottom: 0;
+}
+
+
+
+/* Footer */
+
+.footer{
+	background-color: #DEDEDE;
+}
+
+
+/* Home */
+#index-jumbo{
+	height: 25em;
+	background-image: url("") no-repeat cover center center;
+}

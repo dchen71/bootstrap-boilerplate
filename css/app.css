@@ -11,6 +11,10 @@
 	background-color: #DEDEDE;
 }
 
+.footer .container{
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
 
 /* Home */
 #index-jumbo{

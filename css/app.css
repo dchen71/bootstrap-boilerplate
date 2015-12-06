@@ -32,8 +32,12 @@ body{
 	margin-top: 2em;
 }
 
-.footer .container div div ul, .footer .container div div div{
-	border-right: 1px white solid;
+@media only screen and (min-width: 40.063em) {
+  .footer .container div div:nth-child(n+2) {
+    border-right: none;
+    border-left: 1px solid #b3b3b3;
+    min-height: 180px;
+  }
 }
 
 /* Font-awesome colors */

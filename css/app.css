@@ -9,7 +9,7 @@ body{
 }
 
 /* Hover dropdown */
-@media (min-width:480px){
+@media only screen and (min-width:1024px){
 	.dropdown:hover .dropdown-menu {
 	    display: block;
 	    margin-top: 0;

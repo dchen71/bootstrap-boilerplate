@@ -32,6 +32,10 @@ body{
 	margin-top: 2em;
 }
 
+.footer .container div div ul, .footer .container div div div{
+	border-right: 1px white solid;
+}
+
 /* Font-awesome colors */
 .fa-facebook-official{
 	color: rgb(55,101,163);

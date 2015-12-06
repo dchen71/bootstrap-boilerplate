@@ -78,8 +78,12 @@ body{
 }
 
 /* Content */
-.content{
+.content, .content-header, .content-footer{
 	min-height: 10em;
 	padding-top: 2em;
 	padding-bottom: 2em;
+}
+
+.content:nth-child(odd){
+	background-color: #FFB2B2;
 }
